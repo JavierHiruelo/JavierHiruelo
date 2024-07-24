@@ -23,12 +23,6 @@ I'm looking to collaborate on projects that blend:
 - Data-driven solutions for medical challenges
 - Open-source AI tools
 
-## 📫 How to reach me
-- [LinkedIn](www.linkedin.com/in/javier-hiruelo-perez)
-- [Instagram](www.instagram.com/javier_hiruelo/)
-- [LeetCode](leetcode.com/u/JavierHiruelo/)
-- [Email](mailto:javier.hiruelo@gmail.com)
-
 Feel free to reach out if you're interested in collaborating!
 
 <!---
