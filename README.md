@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Javier Hiruelo Pérez
+# 👋 Hi, I'm Javier Hiruelo
 
 ## About Me
 I'm a Biomedical Engineer with a strong passion for AI and Data Science. My academic background includes:
